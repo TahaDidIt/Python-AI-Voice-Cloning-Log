@@ -34,3 +34,14 @@ The motivation behind this study stems from 2 main reasons.
 
 [Work in Progress]
 
+TEST relative link (with percent20)
+
+[Audio](results/1%20-%20Ranni%20trained%20RVC%20on%20bad%20XTTS%20output/RVC%20ranni1%20first%20train%20convert%20from%20xtts%20test.wav)
+
+TEST 2 relative link with .mp4 at the end
+
+[Audio](results/1%20-%20Ranni%20trained%20RVC%20on%20bad%20XTTS%20output/RVC%20ranni1%20first%20train%20convert%20from%20xtts%20test.wav.mp4)
+
+TEST 3 perma address
+
+[Audio](https://github.com/TahaDidIt/Python-AI-Voice-Cloning-Log/blob/3510260b08d8ae34e14a70d70495f2550e44a7e5/results/1%20-%20Ranni%20trained%20RVC%20on%20bad%20XTTS%20output/RVC%20ranni1%20first%20train%20convert%20from%20xtts%20test.wav)
