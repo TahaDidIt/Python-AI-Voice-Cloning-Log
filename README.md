@@ -1,5 +1,7 @@
 # Taha's Log: Python AI Voice Cloning
 
+READ THE WEB VIEW WITH AUDIO COMPARISON HERE: [Python TTS Training Logs](https://tahadidit.github.io/python-tts-logs/)
+
 ## Brief
 
 Hi there! This is a repository on using and training **machine learning models for speech synthesis** using Python, in particular for voice cloning.
